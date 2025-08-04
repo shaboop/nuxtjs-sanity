@@ -382,7 +382,6 @@ export default defineNuxtModule<SanityModuleOptions>({
           '@nuxtjs/sanity > @sanity/visual-editing > react/jsx-runtime',
           '@nuxtjs/sanity > @sanity/visual-editing > react-dom',
           '@nuxtjs/sanity > @sanity/visual-editing > react-dom/client',
-          '@nuxtjs/sanity > @sanity/visual-editing > react-compiler-runtime',
           '@sanity/client',
         ],
       })
